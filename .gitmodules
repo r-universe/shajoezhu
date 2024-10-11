@@ -5,6 +5,3 @@
 [submodule "filters"]
 	path = filters
 	url = https://github.com/cran/filters
-[submodule "random.cdisc.data"]
-	path = random.cdisc.data
-	url = https://github.com/cran/random.cdisc.data
