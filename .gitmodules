@@ -8,3 +8,6 @@
 [submodule "filters"]
 	path = filters
 	url = https://github.com/cran/filters
+[submodule "filters.trade"]
+	path = filters.trade
+	url = https://github.com/cran/filters.trade
