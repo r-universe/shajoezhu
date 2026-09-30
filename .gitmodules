@@ -5,6 +5,9 @@
 [submodule "DEploid.utils"]
 	path = DEploid.utils
 	url = https://github.com/cran/DEploid.utils
+[submodule "autoslider.trade"]
+	path = autoslider.trade
+	url = https://github.com/cran/autoslider.trade
 [submodule "filters"]
 	path = filters
 	url = https://github.com/cran/filters
