@@ -7,10 +7,10 @@
 	url = https://github.com/cran/DEploid.utils
 [submodule "autoslider.trade"]
 	path = autoslider.trade
-	url = https://github.com/cran/autoslider.trade
+	url = https://github.com/shajoezhu/autoslider.trade
 [submodule "filters"]
 	path = filters
 	url = https://github.com/cran/filters
 [submodule "filters.trade"]
 	path = filters.trade
-	url = https://github.com/cran/filters.trade
+	url = https://github.com/shajoezhu/filters.trade
